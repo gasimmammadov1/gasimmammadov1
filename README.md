@@ -1,7 +1,7 @@
-[![MasterHead](https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif)
+[![MasterHead](https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif)
 <h1 align="center">Hi 👋, I'm Gasim</h1>
 <h3 align="center">Web Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
 
 
 
