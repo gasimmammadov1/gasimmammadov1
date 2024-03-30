@@ -17,11 +17,21 @@
 - 🔭 I’m currently working on:
   -  [Portfolio Website](https://gasimmammadov1.github.io/)
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning:
+  -  **React Native**
 
-- 👨‍💻 All of my projects are available at [https://gasimmammadov1.github.io/](https://gasimmammadov1.github.io/)
+- 👨‍💻 All of my projects are available at:
+  -  [https://gasimmammadov1.github.io/](https://gasimmammadov1.github.io/)
 
-- 💬 Ask me about **Node.js, Javascript, Express.js, Typescript, GraphQL,etc. Python, REST APIs,**
+- 💬 Ask me about:
+  - **Node.js
+  - Javascript
+  - Express.js
+  - Typescript
+  - GraphQL,
+  - Python,
+  - REST APIs**
+  - etc.
 
 - 📫 How to reach me **gasimmammadov1@gmail.com**
 
