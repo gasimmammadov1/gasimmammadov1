@@ -24,13 +24,13 @@
   -  [https://gasimmammadov1.github.io/](https://gasimmammadov1.github.io/)
 
 - 💬 Ask me about:
-  - **Node.js
-  - Javascript
-  - Express.js
-  - Typescript
-  - GraphQL,
-  - Python,
-  - REST APIs**
+  - **Node.js**
+  - **Javascript**
+  - **Express.js**
+  - **Typescript**
+  - **GraphQL**
+  - **Python**
+  - **REST APIs**
   - etc.
 
 - 📫 How to reach me **gasimmammadov1@gmail.com**
