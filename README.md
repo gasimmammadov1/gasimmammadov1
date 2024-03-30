@@ -33,7 +33,8 @@
   - **REST APIs**
   - etc.
 
-- 📫 How to reach me **gasimmammadov1@gmail.com**
+- 📫 How to reach me:
+  -  **gasimmammadov1@gmail.com**
 
 - 📄 Know about my experiences:
   - [English CV](https://raw.githubusercontent.com/gasimmammadov1/gasimmammadov1/e50300ea6dd63ce59fb8c9459ddc1092a1bb1a48/Gasim_Mammadov_CV.pdf)
