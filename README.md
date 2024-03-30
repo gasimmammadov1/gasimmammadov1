@@ -24,7 +24,9 @@
 
 - 📫 How to reach me **gasimmammadov1@gmail.com**
 
-- 📄 Know about my experiences [https://raw.githubusercontent.com/gasimmammadov1/gasimmammadov1/e50300ea6dd63ce59fb8c9459ddc1092a1bb1a48/Gasim_Mammadov_CV.pdf](https://raw.githubusercontent.com/gasimmammadov1/gasimmammadov1/e50300ea6dd63ce59fb8c9459ddc1092a1bb1a48/Gasim_Mammadov_CV.pdf)
+- 📄 Know about my experiences
+  [https://raw.githubusercontent.com/gasimmammadov1/gasimmammadov1/e50300ea6dd63ce59fb8c9459ddc1092a1bb1a48/Gasim_Mammadov_CV.pdf](https://raw.githubusercontent.com/gasimmammadov1/gasimmammadov1/e50300ea6dd63ce59fb8c9459ddc1092a1bb1a48/Gasim_Mammadov_CV.pdf)
+  https://raw.githubusercontent.com/gasimmammadov1/gasimmammadov1/143051bb630eee33610f4d1df98096a351e0ad22/Qasim_Memmedov_CV.pdf
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
