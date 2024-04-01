@@ -60,9 +60,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gasimmammadov1&show_icons=true&locale=en" alt="gasimmammadov1" /></p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/gasimmammadov1"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/gasimmammadov1" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/gasimmammadov1"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/gasimmammadov1" /></a><a href="https://kofe.al/@gasimmammadov1"> <img align="left" src="https://kofe.al/storage/images/users_posts/KWe3zvdH6yc7vpiMqxbRV6qO5xpWIz0AbnpCWAjx.webp" height="50" width="210" alt="https://kofe.al/@gasimmammadov1" /></a></p><br><br>
 
-<a href="https://kofe.al/@gasimmammadov1"> <img align="left" src="https://kofe.al/storage/images/users_posts/KWe3zvdH6yc7vpiMqxbRV6qO5xpWIz0AbnpCWAjx.webp" height="50" width="210" alt="https://kofe.al/@gasimmammadov1" /></a><br><br>
+<a href="https://kofe.al/@gasimmammadov1"> <img align="left" src="https://kofe.al/storage/images/users_posts/KWe3zvdH6yc7vpiMqxbRV6qO5xpWIz0AbnpCWAjx.webp" height="50" width="210" alt="https://kofe.al/@gasimmammadov1" /></a>
 
 
 
