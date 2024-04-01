@@ -62,7 +62,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/gasimmammadov1"> <img align="left" src="https://kofe.al/assets/images/logo/logo.png?v=1.0" height="50" width="210" alt="https://www.buymeacoffee.com/gasimmammadov1" /></a></p><br><br>
 
-<p><a href="https://kofe.al/@gasimmammadov1"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://kofe.al/@gasimmammadov1" /></a></p><br><br>
+<p><a href="https://kofe.al/@gasimmammadov1"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.jpg" height="50" width="210" alt="https://kofe.al/@gasimmammadov1" /></a></p><br><br>
 
 
 
