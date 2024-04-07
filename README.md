@@ -12,6 +12,8 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gasimmammadov1" alt="gasimmammadov1" /></a> </p> -->
 
+<p align="left"> <a href="https://linkedin.com/gasimmammadov1" target="blank"><img src="https://img.shields.io/badge/connect%20@gasimmammadov1-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="gasimmammadov11" /></a> </p>
+
 <p align="left"> <a href="https://twitter.com/gasimmammadov11" target="blank"><img src="https://img.shields.io/twitter/follow/gasimmammadov11?logo=twitter&style=for-the-badge" alt="gasimmammadov11" /></a> </p>
 
 - 🔭 I’m currently working on:
