@@ -57,7 +57,6 @@
 <a href="https://www.youtube.com/@gasimmammadov1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@gasimmammadov1" height="30" width="40" /></a>
 <!-- Discord -->
 <a href="https://discordapp.com/users/770034428733816894" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discordapp.com/users/770034428733816894" height="30" width="40" /></a>
-<a href="https://discordapp.com/users/770034428733816894" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discordapp.com/users/770034428733816894" height="30" width="40" /></a>
 <!-- Telegram -->
 <a href="https://t.me/gasimmammadov1" target="blank"><img align="center" src="https://en.wikipedia.org/wiki/Telegram_(software)#/media/File:Telegram_2019_Logo.svg" alt="https://t.me/gasimmammadov1" height="30" width="40" /></a>
 </p>
